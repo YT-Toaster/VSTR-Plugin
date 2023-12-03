@@ -1,6 +1,6 @@
 # Vampire Slayer: The Resurrection
 - **A plugin for [Vampire Slayer: The Resurrection]() based on the code of [@Cracko298](https://github.com/Cracko298)'s [ISZ-2021-Plugin]().**
-- **Supports "[RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS)", "[ISZCI](https://github.com/ISZ-Hacker-Organization/ISZ-VS-Injector)", and "[UUU4](https://framedsc.com/GeneralGuides/universal_ue4_consoleunlocker.htm)".**
+- **Supports "[RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS)".**
 
 ## Downloads:
 - **Download [Plugin Wrapper](https://github.com/Cracko298/ISZ-2021-Plugin/releases/download/v5/PluginLoader.exe) (Version v5.0).**
