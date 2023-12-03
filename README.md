@@ -1,16 +1,10 @@
-[![paypal](https://github.com/Cracko298/ISZ-2021-Plugin/blob/main/payp.png)](https://www.paypal.me/cracko298)
-
-# ISZ-2021-Plugin
-- **Simple yet powerful plugin for ISZ-2021 (PC/Steam Port) with plentiful features.**
+# Vampire Slayer: The Resurrection
+- **A plugin for [Vampire Slayer: The Resurrection]() based on the code of [@Cracko298](https://github.com/Cracko298)'s [ISZ-2021-Plugin]().**
 - **Supports "[RE-UE4SS](https://github.com/UE4SS-RE/RE-UE4SS)", "[ISZCI](https://github.com/ISZ-Hacker-Organization/ISZ-VS-Injector)", and "[UUU4](https://framedsc.com/GeneralGuides/universal_ue4_consoleunlocker.htm)".**
 
 ## Downloads:
-- **Download [Plugin Loader](https://github.com/Cracko298/ISZ-2021-Plugin/releases/download/v5/PluginLoader.exe) (Version v5.0).**
-- **Download [Auto Loader](https://github.com/Cracko298/ISZ-2021-Plugin/releases/download/v4/iszplg_loader.dll) (Version v1.0).**
-- **Download The "ISZ-Injector" [ISZ-Plugin](https://github.com/Cracko298/ISZ-2021-Plugin/releases/download/v4/iszplugin_isz_inj.dll) (Version v4.0).**
-- **Download The "RE-UE4SS" [ISZ-Plugin](https://github.com/Cracko298/ISZ-2021-Plugin/releases/download/v4/iszplugin_lua.dll) (Version v4.0).**
-- **Download The "UUU4" [ISZ-Plugin](https://github.com/Cracko298/ISZ-2021-Plugin/releases/download/v4/iszplugin_uuu.dll) (Version v4.0).**
-- **Download The "Complete Package" [ISZ-Plugin-Packages](https://github.com/Cracko298/ISZ-2021-Plugin/releases/download/v5/iszplugin_package.zip) (Version v4.0).**
+- **Download [Plugin Wrapper](https://github.com/Cracko298/ISZ-2021-Plugin/releases/download/v5/PluginLoader.exe) (Version v5.0).**
+- **Download The "RE-UE4SS" [VS-Plugin]() (Version v4.0).**
 
 ## Next Update Plans:
 - **Add EVEN More Codes (or Add Alternate Codes).**
